@@ -1,6 +1,6 @@
-#Running Virtualized Python Environments in Windows
+# Running Virtualized Python Environments in Windows
 
-##Steps
+## Steps
 1. Ensure you have Python installed
 1. Make sure your Python installation includes pip and virtualenv. If not, install them
 1. Run the following command:
