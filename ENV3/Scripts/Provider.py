@@ -34,7 +34,7 @@ class Provider:
         os.system(f"multipass exec {command}")
 
     def launch(self):
-        baner(f"Launching New Instance -  {self.name}")
+        banner(f"Launching New Instance -  {self.name}")
         os.system(f"multipass launch --name {self.name}")
 
 if __name__ == "__main__":
