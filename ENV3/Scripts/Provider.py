@@ -26,15 +26,15 @@ class Provider:
         os.system(f"multipass stop {self.name}")
 
     def shell(self):
-        print("shell")
+        banner("shell")
         os.system("multipass shell")
 
     def run(self, command):
-        print(f"run {command}")
+        banner(f"run {command}")
         os.system(f"multipass exec {command}")
 
     def launch(self):
-        print(f"Launching New Instance -  {self.name}")
+        baner(f"Launching New Instance -  {self.name}")
         os.system(f"multipass launch --name {self.name}")
 
 if __name__ == "__main__":
