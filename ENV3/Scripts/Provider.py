@@ -1,4 +1,6 @@
 import os
+from collections import defaultdict
+
 from cloudmesh.common.util import banner
 
 
@@ -7,9 +9,14 @@ class Provider:
     def __init__(self, name):
         self.name = name
 
-    def list(self):
-        banner("List Images")
-        os.system("multipass list")
+    def list(self, format=""):
+        if(format in {"yaml","json","csv"}):
+            banner(f"List Images {format}")
+            format = "--format " + format
+        else:
+            format = ""
+            banner(f"List Images")
+        os.system(f"multipass list {format}")
 
     def delete(self, purge=True):
         banner(f"Delete instance - {self.name}")
@@ -39,11 +46,14 @@ class Provider:
 
 if __name__ == "__main__":
     p = Provider("ubuntu-lts")
-    p.delete(True)
-    p.launch()
+    #p.delete(True)
+    #p.launch()
     #p.run("help")
     p.list()
-    p.stop()
-    p.list()
-    p.start()
-    p.list()
+    #p.stop()
+    #p.list()
+    #p.start()
+    p.list("json")
+    p.list("csv")
+    p.list("yaml")
+    p.list("blorp")
