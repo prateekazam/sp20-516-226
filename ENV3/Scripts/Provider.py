@@ -1,5 +1,4 @@
 import os
-from collections import defaultdict
 
 from cloudmesh.common.util import banner
 

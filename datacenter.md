@@ -1,4 +1,4 @@
-# Data Center Info
+# Data Center Info HID: sp20-516-226
 ## Facebook Altoona Data Center Details (E.Datacenter.2.b)
 This data center was first announced in 2013, and is over 2.5 million square feet. Facebook has 
 spent over $1 billion on creating and improving the data center. As of 2019, the center also employed over 300 people. The 
@@ -53,15 +53,15 @@ to have been $250 million in 2019. Therefore, losing a day's worth of ad revenue
 Additionally, Facebook's shares decreased by 1.6 percent on the day of the incident.
 
 ## References
-1. https://www.desmoinesregister.com/story/news/local/altoona/2019/04/14/facebook-poised-build-another-data-center-altoona/3438715002/
-1. https://www.datacenterknowledge.com/solar-powered-data-centers
-1. https://sustainability.fb.com/innovation-for-our-world/sustainable-data-centers/
-1. https://www.aiso.net/technology
-1. https://9to5google.com/2019/01/17/largest-ever-solar-farms-google/
-1. https://news.energysage.com/solar-panels-work/
-1. https://aws.amazon.com/about-aws/sustainability/
-1. https://www.theregister.co.uk/2019/03/14/facebook_server_configuration/
-1. https://www.itprotoday.com/data-center/facebook-says-server-change-caused-widespread-outage
-1. https://www.datacenterdynamics.com/news/facebook-instagram-whatsapp-suffer-global-outage/
-1. https://data-economy.com/six-new-solar-facilities-and-a-possible-massive-iowa-data-centre-expansion-for-facebook/
-1. https://www.datacenterknowledge.com/archives/2013/11/13/facebook-says-iowa-server-farm-will-wind-powered
+1. '<https://www.desmoinesregister.com/story/news/local/altoona/2019/04/14/facebook-poised-build-another-data-center-altoona/3438715002/>'
+1. '<https://www.datacenterknowledge.com/solar-powered-data-centers>'
+1. '<https://sustainability.fb.com/innovation-for-our-world/sustainable-data-centers/>'
+1. '<https://www.aiso.net/technology>'
+1. '<https://9to5google.com/2019/01/17/largest-ever-solar-farms-google/>'
+1. '<https://news.energysage.com/solar-panels-work/>'
+1. '<https://aws.amazon.com/about-aws/sustainability/>'
+1. '<https://www.theregister.co.uk/2019/03/14/facebook_server_configuration/>'
+1. '<https://www.itprotoday.com/data-center/facebook-says-server-change-caused-widespread-outage>'
+1. '<https://www.datacenterdynamics.com/news/facebook-instagram-whatsapp-suffer-global-outage/>'
+1. '<https://data-economy.com/six-new-solar-facilities-and-a-possible-massive-iowa-data-centre-expansion-for-facebook/>'
+1. '<https://www.datacenterknowledge.com/archives/2013/11/13/facebook-says-iowa-server-farm-will-wind-powered>'

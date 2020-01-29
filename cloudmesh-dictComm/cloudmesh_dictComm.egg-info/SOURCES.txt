@@ -1,0 +1,17 @@
+README.md
+setup.cfg
+setup.py
+cloudmesh/__init__.py
+cloudmesh/dictComm/__init__.py
+cloudmesh/dictComm/__version__.py
+cloudmesh/dictComm/api/__init__.py
+cloudmesh/dictComm/api/manager.py
+cloudmesh/dictComm/command/__init__.py
+cloudmesh/dictComm/command/dictComm.py
+cloudmesh_dictComm.egg-info/PKG-INFO
+cloudmesh_dictComm.egg-info/SOURCES.txt
+cloudmesh_dictComm.egg-info/dependency_links.txt
+cloudmesh_dictComm.egg-info/namespace_packages.txt
+cloudmesh_dictComm.egg-info/not-zip-safe
+cloudmesh_dictComm.egg-info/requires.txt
+cloudmesh_dictComm.egg-info/top_level.txt
