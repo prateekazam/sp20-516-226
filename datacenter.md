@@ -1,4 +1,7 @@
-# Data Center Info HID: sp20-516-226
+# Data Center HID: sp20-516-226
+
+:o2: empty lines are missing
+
 ## Facebook Altoona Data Center Details (E.Datacenter.2.b)
 This data center was first announced in 2013, and is over 2.5 million square feet. Facebook has 
 spent over $1 billion on creating and improving the data center. As of 2019, the center also employed over 300 people. The 
