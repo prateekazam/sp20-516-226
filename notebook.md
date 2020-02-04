@@ -1,5 +1,11 @@
 # Notebook Benjamin Tracy sp20-516-226
 
+## Week Fri 01/31/20 - 02/07/20
+
+* Attended video lecture on Monday
+* Watched videos linked in lecture notes
+* Updated datacenter.md
+
 ## Week Fri 01/24/20 - 01/31/20
 
 * Completed homework 
