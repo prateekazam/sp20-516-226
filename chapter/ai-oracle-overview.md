@@ -28,6 +28,7 @@ Oracle Adaptive Intelligent (AI) Apps for ERP is a suite of AI and data-driven f
 This include inbuild support for supplier categorization and interllignet payment discounts.
 
 
-| Product Name and features              | cost |
-| ------------------- | ------- | 
-| Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  |
+| Product Name             | Cost | Remark |
+| ------------------- | ------- | ------------- |
+| Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  | Included(Supplier categorization
+Intelligent payment discounts) |
