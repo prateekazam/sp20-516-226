@@ -43,12 +43,6 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 #### AI Apps for Marketing
 
-
-| Product Name             | Cost | Remark |
-| ------------------- | ------- | ------------- |
-| Oracle Adaptive Intelligent Apps for Customer Experience, Commerce and Marketing  | $1,000.00 (user/month) and $5.00 unit/1,000 interactions | Next-best offer and product recommendations Coordinated open-time content Intuitive search experiences Optimized marketing orchestrations Connected audiences |
-
-
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Customer Experience, Commerce and Marketing  | $1,000.00 (user/month) and $5.00 unit/1,000 interactions | Next-best offer and product recommendations Coordinated open-time content Intuitive search experiences Optimized marketing orchestrations Connected audiences |
