@@ -38,8 +38,7 @@ This include inbuild support for supplier categorization and interllignet paymen
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
 | Oracle Adaptive Intelligent Apps for Human Capital Management  | $4.00 (employee/month)  | Included(Best Candidates and Stack-ranked applicants) |
-| Oracle Advanced HCM Controls Cloud  | $3.00 (employee/month)  | * GDPR security analysis for all users * Payroll and payment fraud detection * Prebuilt templates for core audit analysis * Security analysis for configuration and maintenance
-* Visual workbench Dashboards with analytics, alerts, and reporting) |
+| Oracle Advanced HCM Controls Cloud  | $3.00 (employee/month)  | * GDPR security analysis for all users * Payroll and payment fraud detection * Prebuilt templates for core audit analysis * Security analysis for configuration and maintenance * Visual workbench Dashboards with analytics, alerts, and reporting) |
 
 #### AI Apps for Marketing
 
