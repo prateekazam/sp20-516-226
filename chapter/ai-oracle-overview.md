@@ -30,5 +30,4 @@ This include inbuild support for supplier categorization and interllignet paymen
 
 | Product Name             | Cost | Remark |
 | ------------------- | ------- | ------------- |
-| Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  | Included(Supplier categorization
-Intelligent payment discounts) |
+| Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  | Included(Supplier categorization Intelligent payment discounts) |
