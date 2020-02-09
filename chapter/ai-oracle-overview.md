@@ -22,3 +22,12 @@ Oracle AI Services as shown @fig:sp20-516-229-oracle-cloud-ai
 Oracle offer in-build AI support in its Cloud based enterprise application.Below are list of application which support AI.
 
 #### AI Apps for Financials
+
+Oracle Adaptive Intelligent (AI) Apps for ERP is a suite of AI and data-driven features that help procurement and finance teams improve financial performance, optimize cash flow, and increase agility across payables, receivables, procurement, and inventory. link needed
+
+This include inbuild support for supplier categorization and interllignet payment discounts.
+
+
+| Product Name and features              | cost |
+| ------------------- | ------- | 
+| Oracle Adaptive Intelligent Apps for Enterprise Resource Planning  | $125.00  |
