@@ -1,5 +1,11 @@
 # Notebook Benjamin Tracy sp20-516-226
 
+## Week Fri 02/07/20 - 02/14/20
+
+* Attended Monday video lecture
+* Chose AI web service project
+* Updated datacenter file to read from a .bib file
+
 ## Week Fri 01/31/20 - 02/07/20
 
 * Attended video lecture on Monday
