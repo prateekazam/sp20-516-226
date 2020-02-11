@@ -5,7 +5,7 @@
 This data center was first announced in 2013, and is over 2.5 million square feet [@altoonadc-sp20-516-226]. Facebook has 
 spent over $1 billion on creating and improving the data center. As of 2019, the center also employed over 300 people. The 
 center recycles or composts 52 percent of its waste [@facebook-sp20-516-226]. This is the equivalent of almost 170 tons of waste. During the planning 
-stages of the project, the plan was to have the center run on 100% wind power [@altoonawind-sp20-516-220]. However, as it has expanded this has changed.
+stages of the project, the plan was to have the center run on 100% wind power [@altoonawind-sp20-516-226]. However, as it has expanded this has changed.
 Facebook is now working with local utility companies to create solar grids to aid in powering their data center [@expansion-sp20-516-226].
 
 
