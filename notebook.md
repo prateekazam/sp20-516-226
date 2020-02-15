@@ -1,5 +1,11 @@
 # Notebook Benjamin Tracy sp20-516-226
 
+## Week Fri 02/14/20 - 02/21/20
+
+* Read chapters on OpenAPI 3.0 and Introspection
+* Added Chapter proposal to google doc
+
+
 ## Week Fri 02/07/20 - 02/14/20
 
 * Attended Monday video lecture
