@@ -2,6 +2,7 @@
 
 ## Week Fri 02/14/20 - 02/21/20
 
+* Added some additional information to chapter(WIP)
 * Read chapters on OpenAPI 3.0 and Introspection
 * Added Chapter proposal to google doc
 
